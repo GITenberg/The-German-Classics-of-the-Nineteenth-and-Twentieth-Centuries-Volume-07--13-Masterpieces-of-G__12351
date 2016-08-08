@@ -1,0 +1,48 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-07--13-Masterpieces-of-G__12351
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12351'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German literature -- 20th century -- Translations into English'
+- !lcsh 'German literature -- 19th century -- Translations into English'
+- GITenberg
+tableOfContents: 'The Life of Georg Wilhelm Friedrich Hegel. By J. Loewenberg. --
+  Hegel: Introduction to the Philosophy of History. -- The Philosophy of Law. -- Introduction
+  to the Philosophy of Art. -- The Life of Bettina von Arnim. By Henry Wood. -- von
+  Arnim: Goethe''s Correspondence with a Child. -- Immermann and His Drama Merlin.
+  By Martin Schütze. -- Immermann''s Münchhausen. By Allen Wilson Porterfield. --
+  Immermann: The Oberhof. -- Gutzkow and Young Germany. By Starr Willard Cutting.
+  -- Gutzkow: Sword and Queue. -- German Lyric Poetry from 1830 to 1848. By John S.
+  Nollen. -- Grün: A Salon Scene. -- Lenau: Prayer. -- Sedge Songs. -- Songs by the
+  Lake. -- The Postilion. -- To the Beloved from Afar. -- The Three Gipsies. -- My
+  Heart. -- Mörike: An Error Chanced. -- A Song for Two in the Night. -- Early Away.
+  -- The Forsaken Maiden. -- Weyla''s Song. -- Seclusion. -- The Soldier''s Betrothed.
+  -- The Old Weathercock: An Idyll. -- Think of It, My Soul. -- Erinna to Sappho.
+  -- Mozart''s Journey from Vienna to Prague. -- von Droste-Hülshoff: Pentecost. --
+  The House in the Heath. -- The Boy on the Moor. -- On the Tower. -- The Desolate
+  House. -- The Jew''s Beech-Tree. -- Freiligrath: The Duration of Love. -- The Emigrants.
+  -- The Lion''s Ride. -- The Spectre-Caravan. -- Had I at Mecca''s Gate been Nourished.
+  -- Wild Flowers. -- The Dead to the Living. -- Hurrah, Germania! -- The Trumpet
+  of Gravelotte. -- von Strachwitz: Douglas of the Bleeding Heart. -- Herwegh: The
+  Stirrup-Cup. -- Geibel: The Watchman''s Song. -- The Call of the Road. -- Autumn
+  Days. -- The Death of Tiberius.'
+title: "The German Classics of the Nineteenth and Twentieth Centuries, Volume 07\r\
+  \nMasterpieces of German Literature Translated into English. in Twenty Volumes"
+url: http://www.gutenberg.org/ebooks/12351
